@@ -1,0 +1,24 @@
+/* .gallery {
+    display: flex;
+    gap: 0.5rem;
+    width: 95%;
+    height: 200px;
+    padding-left: 30px;
+  }
+  
+  .gallery > div {
+    flex: 1;
+    background-position: center;
+    background-size: cover;
+    transition: all 4s;
+  }
+  
+  .gallery > div:hover {
+    flex: 2;
+  }
+   */
+/*  
+   #productimg img{
+    width:  150px;
+    height: 20vh;
+   } */

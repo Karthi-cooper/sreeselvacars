@@ -1,0 +1,29 @@
+ /* #Service{
+   background-color:white;
+ }
+ #Bg1{
+   background-image: url('../Asset/cus5.png');  
+     background-size: cover;
+ }
+ 
+ #Bg2{
+    background-image: url('../Asset/cus5.png');  
+    background-size: cover;
+ }
+ #Bg3{
+   transform-style: preserve-3d;
+    background-size: cover;
+    transition: 0.5s ease;
+ } 
+ #Bg3:hover{
+  transform: rotateY(180deg);
+
+ }
+ #frontcard{
+   backface-visibility: hidden;
+ }
+ #backend{
+   backface-visibility: hidden;
+ } */
+
+ 

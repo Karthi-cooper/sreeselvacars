@@ -1,0 +1,31 @@
+  [
+    
+        {
+            "id":1,
+            "img": "car2.jpeg",
+             "video":"brand.mp4",
+            "brand" : "Suzi",
+            "price":"50,000" ,
+            "description":"Suzuki cars are known for their compact design, fuel efficiency, and affordability, making them popular choices for urban driving. They offer a range of models from small hatchbacks to SUVs, catering to diverse consumer needs."
+        
+        },
+        {
+            "id":2,
+            "img":"car2.jpeg",
+            "video":"brand.mp4",
+            "brand" : "Maruthi",
+            "price":"50,000" ,
+            "description":"Suzuki cars are known for their compact design, fuel efficiency, and affordability, making them popular choices for urban driving. They offer a range of models from small hatchbacks to SUVs, catering to diverse consumer needs."   
+        },
+        {
+            "id":3,
+            "img":"car2.jpeg",
+    
+            "video":"brand.mp4",
+            "brand" : "Maruthi" ,
+            "price":"50,000" ,
+            "description":"Suzuki cars are known for their compact design, fuel efficiency, and affordability, making them popular choices for urban driving. They offer a range of models from small hatchbacks to SUVs, catering to diverse consumer needs." 
+        }
+    
+]
+ 

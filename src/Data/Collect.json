@@ -1,0 +1,48 @@
+ 
+
+[
+    
+        {
+            "id":1,
+            "img": "/Asset/innovaside1.webp",
+            "brand" :"TOYOTA INNOVA",
+            "price":"50,000" ,
+            "description":"  2.5V Diesel Second owner 2011 model  ",
+            "distance": "241000 kms",
+            "insurance": "No replacement Insurance Live Company service record"
+
+
+        },
+        {
+            "id":2,
+            "img":"../Asset/crystaside.webp",
+            "brand" : "TOYOTA CRYSTA",
+            "price":"50,000" ,  
+            "description":"  2.4V DIESEL Second owner 2018 model",
+            "distance": "---",
+            "insurance": " Insurance Live Company service record"
+            
+        },
+        {
+            "id":3,
+            "img":"../Asset/chevroletside.webp",
+            "video":"brand.mp4",
+            "brand" : "CHEVROLET TRAVERA" ,
+            "price":"50,000" ,
+            "description":" LT2.5 Diesel Single owner 2009 Just ",
+            "distance": "53000 kms",
+            "insurance": "No replacement Insurance Live Company service record"
+        },
+        {
+            "id":4,
+            "img":"../Asset/vis2.webp",
+            "video":"brand.mp4",
+            "brand" : "TATA VISTA",
+            "price":"50,000" ,
+            "description":"VX Diesel Second owner 2012 model " ,
+            "distance": "---",
+            "insurance": "No replacement Insurance Live Company service record"
+        }
+    
+]
+ 

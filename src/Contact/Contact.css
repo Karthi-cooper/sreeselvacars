@@ -1,0 +1,64 @@
+/* #contact{
+background-image: url('../Asset/contact1.png');
+ background-size: cover;
+ background-repeat: no-repeat;
+height: 100%;
+}
+#form input{
+ 
+    cursor: pointer;
+} */
+
+
+
+/* Contact.css */
+
+ 
+#contact { 
+ 
+   background-size: cover;
+   min-height: 100vh;
+  width: 100%;
+  background-image: url('../Asset/contact2.png');
+  background-repeat: no-repeat;
+  background-color: rgb(207, 207, 207);
+ 
+  
+  }
+  
+  /* form {
+    position: relative;
+  } */
+  
+  #form span {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: gray;
+    pointer-events: none; /* Prevents the icon from blocking the input */
+
+  }
+  
+  #form input {
+    padding-left: 40px; /* Ensure text starts after the icon */
+  } 
+   
+  #form input:hover{
+    cursor: text;
+    background-color: black;
+    color: white;
+  }
+  
+  #form input,
+  #form button {
+    transition: all 0.3s ease;
+  }
+  
+  #form button:hover {
+    background-color: white;
+    color: black;
+    transition: 0.4s;
+    transform: scaleY(20px);
+  }
+  
